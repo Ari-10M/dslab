@@ -1,0 +1,61 @@
+ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex04$ gcc ex04a.c
+ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex04$ ./a.out
+
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:10
+element pushed:10
+
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:20
+element pushed:20
+
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:1
+enter element to push:30
+element pushed:30
+
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:3
+stack elements: 30->20->10->NULL
+
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:2
+popped element:30
+
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:3
+stack elements: 20->10->NULL
+
+stack operations menu:
+1.push
+2.pop
+3.display
+4.exit
+enter your choice:4
+
