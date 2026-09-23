@@ -50,6 +50,3 @@ stack operations menu:
 3.display
 4.exit
 enter your choice:4
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex03$ 
-
-
