@@ -56,6 +56,3 @@ Circular Linked List: 52 56 89
 0.Exit
 enter your choice:0
 Existing...
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex02$ 
-
-
