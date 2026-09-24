@@ -1,58 +1,56 @@
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex02$ gcc ex02.c
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex02$ ./a.out
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 1
+Enter data to insert: 52
 
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:1
-enter data to insert: 52
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 1
+Enter data to insert: 56
 
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:1
-enter data to insert: 56
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 1
+Enter data to insert: 75
 
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:1
-enter data to insert: 75
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 1
+Enter data to insert: 89
 
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:1
-enter data to insert: 89
-
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:3
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 3
 Circular Linked List: 52 56 75 89 
 
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:2
-enter data to delete: 75
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 2
+Enter data to delete: 75
 
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:3
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 3
 Circular Linked List: 52 56 89 
 
-1.Insert at End
-2.Delete Node
-3.Print List
-0.Exit
-enter your choice:0
-Existing...
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice: 0
+Exiting...
+
