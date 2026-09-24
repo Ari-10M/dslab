@@ -1,61 +1,60 @@
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex04$ gcc ex04b.c
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex04$ ./a.out
+Output :
 
-queue operations menu:
-1.enqueue
-2.dequeue
-3.display
-4.exit
-enter your choice:1
-enter element to enqueue: 10
-element enqueued:10
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 10
+Element enqueued: 10
 
-queue operations menu:
-1.enqueue
-2.dequeue
-3.display
-4.exit
-enter your choice:1
-enter element to enqueue: 20
-element enqueued:20
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 20
+Element enqueued: 20
 
-queue operations menu:
-1.enqueue
-2.dequeue
-3.display
-4.exit
-enter your choice:1
-enter element to enqueue: 30
-element enqueued:30
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 30
+Element enqueued: 30
 
-queue operations menu:
-1.enqueue
-2.dequeue
-3.display
-4.exit
-enter your choice:3
-Queue elements:10->20->30->NULL
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 10->20->30->NULL
 
-queue operations menu:
-1.enqueue
-2.dequeue
-3.display
-4.exit
-enter your choice:2
-dequeued element:10
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 2
+Dequeued element: 10
 
-queue operations menu:
-1.enqueue
-2.dequeue
-3.display
-4.exit
-enter your choice:3
-Queue elements:20->30->NULL
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 20->30->NULL
 
-queue operations menu:
-1.enqueue
-2.dequeue
-3.display
-4.exit
-enter your choice:4
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 4
 
